@@ -1,6 +1,7 @@
 body {
-  background: url("https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
-  background-size: cover;
+  /* background: url("https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"); */
+  background-image: url("https://images.pexels.com/photos/41162/moon-landing-apollo-11-nasa-buzz-aldrin-41162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-size: 100%;
   background-repeat: repeat-y;
 }
 
