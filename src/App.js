@@ -21,8 +21,8 @@ const App = () => {
             alt="SpaceX"
             style={{ width: 350, display: "block", margin: "auto" }}
           />
-          <Route exact path="/" component={Launches} />
-          <Route exact path="/launch/:flight_number" component={Launch} />
+          <Route path="/" component={Launches} />
+          <Route path="/launch/:flight_number" component={Launch} />
         </div>
       </Router>
     </ApolloProvider>
