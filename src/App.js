@@ -11,7 +11,7 @@ const client = new ApolloClient({
   uri: "https://spacex-api-gql.herokuapp.com/graphql",
 });
 
-const App = (props) => {
+const App = () => {
   return (
     <ApolloProvider client={client}>
       <Router>
