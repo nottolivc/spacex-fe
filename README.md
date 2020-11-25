@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Deployed on Netlify: (https://naughty-almeida-8e886a.netlify.app/)
+- Deployed main on Netlify: (https://spacex-launch-react.netlify.app/)
 
 ## Available Scripts
 
