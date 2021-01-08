@@ -25,8 +25,8 @@ const Launches = (props) => {
       <MissionKey />
       <Query query={LAUNCHES_QUERY}>
         {({ loading, error, data }) => {
-          if (loading) return <h4>Loading...</h4>;
-          if (error) console.log(error);
+          if (loading) return <img src="https://hackernoon.com/images/0*3IFEy-hfoIpgFjBl.gif" alt="" />;
+          if (error) alert(error);
 
           return (
             <>
